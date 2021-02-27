@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ... improving my DS knowledge
+- 🌱 I’m currently learning ... NLP ([CS224N](https://web.stanford.edu/class/cs224n/))
+- 📫 How to reach me: The best way would be by [email](mailto:lijo7george@gmail.com)
+- 💬 Ask me about ... anything fantasy/scifi related or... you know... anything else
+- ⚡ Fun fact: I can write mirror text fluently
+
 <!--
 **lijotgeorge/lijotgeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
